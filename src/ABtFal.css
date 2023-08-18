@@ -1,0 +1,22 @@
+#styling{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#karl{
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+}
+#ABT{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#karls{
+    width: 500px;
+    height: 300px;
+    margin-left: 500px;
+}
+#dafunctiondiv{
+    background-color: black;
+}

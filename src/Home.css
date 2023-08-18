@@ -1,0 +1,29 @@
+#startpart{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/004/979/193/original/hexagon-abstract-green-neon-background-free-vector.jpg");
+text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 13px;
+    height: 600px;
+    
+}
+
+#homen{
+    background-color: black;
+    height: 700px;
+}
+.widthneeded{
+    width: 500px;
+    margin-top: -500px;
+    margin-bottom: 600px;
+}
+#maintr{
+    text-align: center;
+    font-size: 30px;
+}
+#ryserhome{
+    margin-left: 570px;
+    width: 800px;
+    height: 400px;
+    margin-bottom: 100px;
+}

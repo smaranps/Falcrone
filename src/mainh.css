@@ -1,0 +1,12 @@
+#maindiv{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4H02ZHTYT6v9IvlE3hNEiOtN3NdL_CBc_g&usqp=CAU");
+background-size: cover;
+height: 1500px;
+color: white;
+text-align: center;
+}
+#imagg{
+    width: 800px;
+    height: 500px;
+    margin-left: 300px;
+}
